@@ -1,0 +1,22 @@
+# "How to Dominate the Box Office" - A Film Industry Analysis
+
+## 1.0 Introduction
+### 1.1 Brief History
+In 1878, a nature photographer, by the name of Eadward Muybridge, created what is considered by many to be the first film ever, The Horse in Motion. Muybridge placed a series of twelve cameras on a racetrack and rigged them to capture shots as the horse crossed in front of their lenses. He discovered that when projecting the images in quick succession, they produced a “moving picture” of the horse galloping as it had happened in life. His technique of capturing a series of still images in quick succession laid the groundwork for inventors like Thomas Edison, Woodville Latham and Auguste and Louis Lumiere to develop new ways of photographing and projecting movement.
+The first films were short, simple productions that were shown as novelty attractions at carnivals and fairs. However, as the technology for making and showing films improved, films began to be shown in dedicated movie theatres and the film industry began to grow and evolve. One of the major developments that shaped the film industry was the rise of the Hollywood studio system in the 1920s. Hollywood studios like Universal, Paramount, 20th Century Fox, and Warner Bros became the dominant forces in film production, distribution, and exhibition. They established a system of film production that relied on large budgets, professional crews, and stars to create commercially successful films. 
+
+Over the following decades, the film industry has continued to evolve and adapt to new technologies and changing cultural tastes. The rise of television in the mid 20th century led to the creation of new types of films, such as made-for-TV movies, and changed the way that films were distributed and watched. Recently, the rise of the internet and streaming services has yet again transformed the film industry, with many people now watching movies and shows online rather than in theatres or on traditional TV channels. Despite these changes, the film industry remains a major part of the entertainment industry and continues to produce and distribute films for audiences around the world.
+
+### 1.2 The Economics
+The film industry is a complex system that involves many players, including film studios, production companies, distributors, exhibitors (theatres), and film finance organizations. These organizations all play an important role in the process of bringing a film from a concept to the big screen.
+
+Film studios and production companies are responsible for the development, production, and marketing of films. They either finance the film production themselves or secure funding from outside investors or film finance organizations. Once a film is produced, the production company will then typically sell the dist
+
+Distributors are responsible for getting the film to the audiences as well as the marketing and advertising to promote the film. They may release films in theatres, on television, or through digital platforms. The distributor will usually take a percentage of the box office or streaming revenue as their fee for distributing the film.
+
+Exhibitors show films to the public and collect ticket sales. They usually have a contract with a distributor that specifies the terms under which the film will be shown, including the length of time the film will be shown in theatres and the percentage of ticket sales that will go to the exhibitor and the distributor.
+
+The economics of the film industry can be complex and risky as there is no guarantee a film will be successful. With the hardest thing to gauge being the personal inclination of the moviegoer and the voice of the critics. A story that appeals to a broad audience in one decade could fail in the next. If a film is successful, it can generate significant profits through ticket sales, merchandise, and other revenue streams and open the possibilities of a franchise. However, if it flops it could claim several casualties, from studios to the career of actors.
+
+## 2.0 Objectives
+This project will investigate what it takes for a film to be a box office success, by analyzing past data on film attributes and box office results. The film industry as a whole will also be analyzed to provide a clear snapshot of the landscape and the major players involved.
